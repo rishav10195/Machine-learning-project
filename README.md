@@ -1,3 +1,5 @@
+### The detailed report of this project in the form of webpage is available [here](http://rpubs.com/sanketsinghr/MLPR)
+
 ### Table of contents
 1. [Introduction](#1)
 2. [Dataset background](#2)
